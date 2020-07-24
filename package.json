@@ -17,14 +17,14 @@
   },
   "homepage": "https://github.com/moshisora/gulp-rev-format-re#readme",
   "dependencies": {
-    "gulp-util": "~3.0.8",
-    "modify-filename": "~1.1.0",
-    "through2": "~2.0.3"
+    "gulp-util": "^3.0.8",
+    "modify-filename": "^1.1.0",
+    "through2": "^4.0.2"
   },
   "devDependencies": {
-    "concat-stream": "~1.6.0",
-    "gulp": "~3.9.1",
-    "gulp-rev": "~7.1.2",
+    "concat-stream": "^2.0.0",
+    "gulp": "^4.0.2",
+    "gulp-rev": "^9.0.0",
     "mocha": "*"
   }
 }
