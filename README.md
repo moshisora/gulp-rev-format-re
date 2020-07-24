@@ -1,4 +1,4 @@
-![build status](https://circleci.com/gh/moshisora/gulp-rev-format-re.svg?style=shield&circle-token=a408dd00b313c090bbea974c25c61adda144c571)
+![build status](https://github.com/moshisora/gulp-rev-format-re/workflows/Node.js%20CI/badge.svg)
 
 ## gulp-rev-format-re
 
